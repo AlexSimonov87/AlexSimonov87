@@ -28,10 +28,8 @@ Here are some ideas to get you started:
 <code><img src="media_git/logo/selenide-logo.svg" width="40"/></code>
 <code><img src="media_git/logo/Jenkins.svg" width="40"/></code>
 <code><img src="media_git/logo/postgresql.svg" width="40"/></code>
-
 <code><img src="media_git/logo/Gradle.svg" width="40"/></code>
 <code><img src="media_git/logo/junit5.svg" width="40"/></code>
-
 <code><img src="media_git/logo/Intelij_IDEA.svg" width="40"/></code>
-<code><img src="media_git/logo/GitHub.svg" width="40"/></code>
+<code><img src="media_git/logo/Github.svg" width="40"/></code>
 <code><img src="media_git/logo/Allure-logo.svg" width="40"/></code>
