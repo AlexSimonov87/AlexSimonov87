@@ -33,3 +33,16 @@ Here are some ideas to get you started:
 <code><img src="media_git/logo/Intelij_IDEA.svg" width="40"/></code>
 <code><img src="media_git/logo/Github.svg" width="40"/></code>
 <code><img src="media_git/logo/Allure-logo.svg" width="40"/></code>
+
+------------------------
+**Проекты API автотестов**
+------------------------
+<a href=""><img src="media/GitHub.svg" width="25"/> Github</a>
+https://github.com/AlexSimonov87/qa-project-reqres-pojo-restassured
+
+------------------------
+**Проекты UI автотестов**
+------------------------
+<a href=""><img src="media/GitHub.svg" width="25"/> Github</a>
+https://github.com/AlexSimonov87/qa-project-sandbox-selenium
+https://github.com/AlexSimonov87/qa-project-sandbox-selenide
