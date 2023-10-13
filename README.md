@@ -37,16 +37,17 @@ Here are some ideas to get you started:
 ------------------------
 **Проекты API автотестов**
 ------------------------
-<a href=""><img src="media/GitHub.svg" width="25"/> Github</a>
-https://github.com/AlexSimonov87/qa-project-reqres-pojo-restassured  
+<a href="https://github.com/AlexSimonov87/qa-project-reqres-pojo-restassured">reqres-pojo-restassured</a>  
+
+
 [reqres-pojo-restassured](https://github.com/AlexSimonov87/qa-project-reqres-pojo-restassured)
 
 ------------------------
 **Проекты UI автотестов**
 ------------------------
-<a href=""><img src="media/GitHub.svg" width="25"/> Github</a>
-https://github.com/AlexSimonov87/qa-project-sandbox-selenium
-https://github.com/AlexSimonov87/qa-project-sandbox-selenide
+<a href="https://github.com/AlexSimonov87/qa-project-sandbox-selenium">sandbox-selenium</a>  
+<a href="https://github.com/AlexSimonov87/qa-project-sandbox-selenide">sandbox-selenide</a>
 
-[sandbox-selenium](https://github.com/AlexSimonov87/qa-project-sandbox-selenium)  
+
+[sandbox-selenium](https://github.com/AlexSimonov87/qa-project-sandbox-selenium)    
 [sandbox-selenide](https://github.com/AlexSimonov87/qa-project-sandbox-selenide)
