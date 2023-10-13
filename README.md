@@ -20,3 +20,18 @@ Here are some ideas to get you started:
 Я AQA Engineer.       
 Имею опыт в тестировании UI/API. Постоянно изучаю новые технологии и инструменты в сфере тестирования.   
 Пишу автотесты на Java.  
+
+Технологии и инструменты:
+
+<code><img src="media_git/logo/Java.svg" width="40"/></code>
+<code><img src="media_git/logo/Selenium.svg" width="40"/></code>
+<code><img src="media_git/logo/selenide-logo.svg" width="40"/></code>
+<code><img src="media_git/logo/Jenkins.svg" width="40"/></code>
+<code><img src="media_git/logo/postgresql.svg" width="40"/></code>
+
+<code><img src="media_git/logo/Gradle.svg" width="40"/></code>
+<code><img src="media_git/logo/junit5.svg" width="40"/></code>
+
+<code><img src="media_git/logo/Intelij_IDEA.svg" width="40"/></code>
+<code><img src="media_git/logo/GitHub.svg" width="40"/></code>
+<code><img src="media_git/logo/Allure-logo.svg" width="40"/></code>
